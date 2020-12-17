@@ -15,6 +15,6 @@ call_statTest()
 
 Cite As
 
-C. B. Nzakimuena, "Automated analysis of retinal and choroidal OCT and OCTA images in AMD," Polytechnique Montréal, 2020
+Bélanger Nzakimuena, C. (2020). Automated Analysis of Retinal and Choroidal OCT and OCTA Images in AMD (Masters thesis, Polytechnique Montréal). Retrieved from https://publications.polymtl.ca/5234/
 
 ![example image](figure.png)
