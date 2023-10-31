@@ -4,7 +4,7 @@ function call_statTest()
 % Modified from MATLAB violin plot functions by Bastian Bechtold which
 % can be found here:
 %   https://github.com/bastibe/Violinplot-Matlab
-% Contributed by Charles Belanger Nzakimuena (cnzakimuena@gmail.com)
+% Contributed by C. M. Belanger Nzakimuena
 % $Date: 2020/05/31 $
 
 addpath(genpath('./subFunctions'))
