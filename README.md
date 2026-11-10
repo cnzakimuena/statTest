@@ -11,10 +11,6 @@ call_statTest()
     <img src="figure.png" alt="example image" height="500">
 </p>
 
-Cite As
-
-[Nzakimuena, C. B. (2020). Automated analysis of retinal and choroidal OCT and OCTA images in AMD. Ecole Polytechnique, Montreal (Canada).](https://publications.polymtl.ca/5234/)
-
 ### References
 
 1. [Wilkinson, L. (1999). Dot plots. The American Statistician, 53(3), 276-281.](https://www.tandfonline.com/doi/abs/10.1080/00031305.1999.10474474)
